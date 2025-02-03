@@ -8,6 +8,9 @@ namespace Tateti
 {
     internal class Program
     {
+        static int[,] tablero = new int[3, 3];
+        static char[] simbolos = { ' ', 'O', 'X' };
+
         static void Main(string[] args)
         {
         }
