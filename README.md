@@ -12,3 +12,6 @@ Este es un programa de consola desarrollado en **C#** que permite jugar al clás
    ```bash
    git clone https://github.com/ariel8sche/TaTeTi.git
    cd TaTeTi
+2. **Compilar y ejecutar**
+   ```bash
+   dotnet run
