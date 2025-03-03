@@ -10,8 +10,8 @@ Este es un programa de consola desarrollado en **C#** que permite jugar al clás
 ## 📜 Instrucciones de Uso  
 1. **Clonar el repositorio**  
    ```bash
-   git clone https://github.com/ariel8sche/TaTeTi.git
-   cd TaTeTi
+   git clone https://github.com/ariel8sche/Tateti.git
+   cd Tateti
 2. **Compilar y ejecutar**
    ```bash
    dotnet run
