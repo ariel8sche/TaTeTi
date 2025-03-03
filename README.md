@@ -18,7 +18,9 @@ Este es un programa de consola desarrollado en **C#** que permite jugar al clás
 
 ## 🚀 Mejoras Futuras
 ✔️ Implementar una IA básica para jugar contra la computadora.
+
 ✔️ Agregar un contador de partidas ganadas.
+
 ✔️ Permitir reiniciar la partida sin salir del programa.
 
 ## 📫 Contacto
