@@ -10,5 +10,5 @@ Este es un programa de consola desarrollado en **C#** que permite jugar al clás
 ## 📜 Instrucciones de Uso  
 1. **Clonar el repositorio**  
    ```bash
-   git clone https://github.com/tuusuario/tateti-csharp.git
-   cd tateti-csharp
+   git clone https://github.com/ariel8sche/TaTeTi.git
+   cd TaTeTi
